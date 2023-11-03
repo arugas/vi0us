@@ -1,16 +1,16 @@
-### Hi there 👋
-
-<!--
-**vi0us/vi0us** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```csharp
+My Profile
+-------------------------------
+Username: Vious.
+WhoamI: Normal People.
+Telegram: @ini_vious.
+Number: +507 6888-8888.
+Website: vious.id
+FavouriteAnime: 暗殺教室 (Assassination Classroom).
+Loves: ターニャ (My beautiful girlfriend.) (❤️ ω ❤️), Anime 🎮, Manga 🎹.
+Pronouns: He-Him.
+Location: Planet Kepler-78b.
+FavouriteSong: Official髭男dism - Pretender.
+Hobbies: Watching anime, Read Manga 
+while I am listening music.
+```
