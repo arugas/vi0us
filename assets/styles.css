@@ -8,7 +8,7 @@ body {
 
 @font-face {
    font-family: Boo;
-   src: url(/assets/ibx.ttf);
+   src: url('assets/cascadia.otf') format('opentype');;
 }
 
 .container {
@@ -20,7 +20,7 @@ body {
 }
 
 .text {
-   font-size: 13px;
+   font-size: 20px;
    color: #fafafa;
    display: flex;
    align-items: center;
